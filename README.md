@@ -14,39 +14,23 @@
   Exploring language understanding, text analysis, and intelligent language-based applications.
 </p>
 
-Areas Covered
+## Areas Covered
 
-Text Classification
-
-Sentiment & Emotion Analysis
-
-Text Summarization
-
-Machine Translation
-
-Named Entity Recognition (NER)
-
-Question Answering
-
-Text Generation & Language Modeling
-
-Information Extraction & Retrieval
-
-Topic Modeling
-
-Semantic Analysis & Search
-
-Document Analysis
-
-Speech Recognition & Text-to-Speech
-
-Chatbots & Conversational AI
-
-Multilingual & Arabic NLP
-
-Natural Language Understanding (NLU)
-
-Tools & Technologies
+- Text Classification
+- Sentiment & Emotion Analysis
+- Text Summarization
+- Machine Translation
+- Named Entity Recognition (NER)
+- Question Answering
+- Text Generation & Language Modeling
+- Information Extraction & Retrieval
+- Topic Modeling
+- Semantic Analysis & Search
+- Document Analysis
+- Speech Recognition & Text-to-Speech
+- Chatbots & Conversational AI
+- Multilingual & Arabic NLP
+- Natural Language Understanding (NLU)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,jupyter,vscode" />
