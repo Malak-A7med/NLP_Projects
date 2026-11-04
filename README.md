@@ -32,6 +32,8 @@
 - Multilingual & Arabic NLP
 - Natural Language Understanding (NLU)
 
+Tools & Technologies
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,jupyter,vscode" />
 </p>
@@ -49,6 +51,5 @@ Repository Structure
 
 Each project is organized in its own folder, containing the implementation, datasets (if applicable), and related files.
 
-Author
-
-Malak Ahmed
+## Author
+- Malak Ahmed
