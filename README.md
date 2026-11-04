@@ -32,7 +32,7 @@
 - Multilingual & Arabic NLP
 - Natural Language Understanding (NLU)
 
-Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,jupyter,vscode" />
