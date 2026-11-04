@@ -35,7 +35,7 @@
 ## Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,jupyter,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,vscode" />
 </p>
 
 <p align="left">
