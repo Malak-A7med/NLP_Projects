@@ -47,9 +47,7 @@
   <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge" />
 </p>
 
-Repository Structure
+### Repository Structure
+- Each project is organized in its own folder, containing the implementation, datasets (if applicable), and related files.
 
-Each project is organized in its own folder, containing the implementation, datasets (if applicable), and related files.
-
-## Author
-- Malak Ahmed
+دد
